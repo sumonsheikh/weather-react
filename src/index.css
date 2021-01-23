@@ -15,8 +15,10 @@ body {
   background-position: bottom;
 
 }
-.app .warm{
+ .warm{
   background-image: url('./assets/warm-bg.jpg');
+  background-size: cover;
+  background-position: bottom;
 }
 main{
   min-height: 100vh;
